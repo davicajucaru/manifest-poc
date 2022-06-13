@@ -4,7 +4,7 @@ on:
     types: [opened, synchronize]
 jobs:
   build-win:
-    runs-on: self-hosted
+    runs-on: windows-latest
     steps:
       - name: checkout
         uses: actions/checkout@v2
