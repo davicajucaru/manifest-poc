@@ -1,5 +1,5 @@
 {
     "packages": {
-      "path/to/pkg": {}
+      "packages/test": {}
     }
   }
